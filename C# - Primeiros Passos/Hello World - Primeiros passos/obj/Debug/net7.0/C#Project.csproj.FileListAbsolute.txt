@@ -1,0 +1,30 @@
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\bin\Debug\net7.0\C#Project.exe
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\bin\Debug\net7.0\C#Project.deps.json
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\bin\Debug\net7.0\C#Project.runtimeconfig.json
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\bin\Debug\net7.0\C#Project.dll
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\bin\Debug\net7.0\C#Project.pdb
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\obj\Debug\net7.0\C#Project.csproj.AssemblyReference.cache
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\obj\Debug\net7.0\C#Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\obj\Debug\net7.0\C#Project.AssemblyInfoInputs.cache
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\obj\Debug\net7.0\C#Project.AssemblyInfo.cs
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\obj\Debug\net7.0\C#Project.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\obj\Debug\net7.0\C#Project.dll
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\obj\Debug\net7.0\refint\C#Project.dll
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\obj\Debug\net7.0\C#Project.pdb
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\obj\Debug\net7.0\C#Project.genruntimeconfig.cache
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\obj\Debug\net7.0\ref\C#Project.dll
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\Hello World - Primeiros passos\bin\Debug\net7.0\C#Project.exe
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\Hello World - Primeiros passos\bin\Debug\net7.0\C#Project.deps.json
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\Hello World - Primeiros passos\bin\Debug\net7.0\C#Project.runtimeconfig.json
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\Hello World - Primeiros passos\bin\Debug\net7.0\C#Project.dll
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\Hello World - Primeiros passos\bin\Debug\net7.0\C#Project.pdb
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\Hello World - Primeiros passos\obj\Debug\net7.0\C#Project.csproj.AssemblyReference.cache
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\Hello World - Primeiros passos\obj\Debug\net7.0\C#Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\Hello World - Primeiros passos\obj\Debug\net7.0\C#Project.AssemblyInfoInputs.cache
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\Hello World - Primeiros passos\obj\Debug\net7.0\C#Project.AssemblyInfo.cs
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\Hello World - Primeiros passos\obj\Debug\net7.0\C#Project.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\Hello World - Primeiros passos\obj\Debug\net7.0\C#Project.dll
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\Hello World - Primeiros passos\obj\Debug\net7.0\refint\C#Project.dll
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\Hello World - Primeiros passos\obj\Debug\net7.0\C#Project.pdb
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\Hello World - Primeiros passos\obj\Debug\net7.0\C#Project.genruntimeconfig.cache
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\C#Project\Hello World - Primeiros passos\obj\Debug\net7.0\ref\C#Project.dll

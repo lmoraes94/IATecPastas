@@ -1,0 +1,15 @@
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\abstracao\bin\Debug\net7.0\abstracao.exe
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\abstracao\bin\Debug\net7.0\abstracao.deps.json
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\abstracao\bin\Debug\net7.0\abstracao.runtimeconfig.json
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\abstracao\bin\Debug\net7.0\abstracao.dll
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\abstracao\bin\Debug\net7.0\abstracao.pdb
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\abstracao\obj\Debug\net7.0\abstracao.csproj.AssemblyReference.cache
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\abstracao\obj\Debug\net7.0\abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\abstracao\obj\Debug\net7.0\abstracao.AssemblyInfoInputs.cache
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\abstracao\obj\Debug\net7.0\abstracao.AssemblyInfo.cs
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\abstracao\obj\Debug\net7.0\abstracao.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\abstracao\obj\Debug\net7.0\abstracao.dll
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\abstracao\obj\Debug\net7.0\refint\abstracao.dll
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\abstracao\obj\Debug\net7.0\abstracao.pdb
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\abstracao\obj\Debug\net7.0\abstracao.genruntimeconfig.cache
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\abstracao\obj\Debug\net7.0\ref\abstracao.dll

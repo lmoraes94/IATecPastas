@@ -1,0 +1,15 @@
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\encapsulamento\bin\Debug\net7.0\encapsulamento.exe
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\encapsulamento\bin\Debug\net7.0\encapsulamento.deps.json
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\encapsulamento\bin\Debug\net7.0\encapsulamento.runtimeconfig.json
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\encapsulamento\bin\Debug\net7.0\encapsulamento.dll
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\encapsulamento\bin\Debug\net7.0\encapsulamento.pdb
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\encapsulamento\obj\Debug\net7.0\encapsulamento.csproj.AssemblyReference.cache
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\encapsulamento\obj\Debug\net7.0\encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\encapsulamento\obj\Debug\net7.0\encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\encapsulamento\obj\Debug\net7.0\encapsulamento.AssemblyInfo.cs
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\encapsulamento\obj\Debug\net7.0\encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\encapsulamento\obj\Debug\net7.0\encapsulamento.dll
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\encapsulamento\obj\Debug\net7.0\refint\encapsulamento.dll
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\encapsulamento\obj\Debug\net7.0\encapsulamento.pdb
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\encapsulamento\obj\Debug\net7.0\encapsulamento.genruntimeconfig.cache
+C:\Users\Matheus\OneDrive - Uniasselvi\Conteúdos Dev\Treinamento IATec\Programação Orientada a Objeto\encapsulamento\obj\Debug\net7.0\ref\encapsulamento.dll
