@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Exercício CSS</title>
+    <link rel="icon" href="assets/logo.png" />
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+    <div>
+      <h1 id="titulo">Cadastro de usuário</h1>
+      <form>
+        <label for="fname" class="name">Nome</label>
+        <input type="text" class="fname" name="firstname" placeholder="Nome" />
+
+        <label for="lname" class="name">Sobrenome</label>
+        <input
+          type="text"
+          class="fname"
+          name="lastname"
+          placeholder="Sobrenome"
+        />
+
+        <label for="gender" class="name">Gênero:</label>
+        <select id="gender" name="gender">
+          <option value="Masculino">Masculino</option>
+          <option value="Feminino">Feminino</option>
+        </select>
+
+        <input class="submit" type="submit" value="Cadastrar usuário" />
+      </form>
+    </div>
+  </body>
+</html>
